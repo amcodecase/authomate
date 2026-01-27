@@ -1,17 +1,17 @@
-# Athomate - Technical Overview
+# Authomate - Technical Overview
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-API_First-FF2D20?logo=laravel&logoColor=white)
 ![License](https://img.shields.io/badge/License-Personal-lightgrey)
 
-> **Athomate** is my personal system for backend development. It's designed to stop me from repeating the same patterns across projects and to help me focus on building real functionality.
+> **Authomate** is my personal system for backend development. It's designed to stop me from repeating the same patterns across projects and to help me focus on building real functionality.
 
 ---
 
 ## Project Structure
 
 ```
-athomate/
+authomate/
 ├── ABOUTME.md              # About the author
 ├── README.md               # Project introduction
 ├── OVERVIEW.md             # Technical overview (this file)
@@ -22,7 +22,7 @@ athomate/
 
 ---
 
-## What Athomate Does
+## What Authomate Does
 
 | Feature | Description |
 |---------|-------------|
@@ -51,4 +51,4 @@ athomate/
 
 ---
 
-> *Athomate is my personal toolkit for building backend systems efficiently and consistently.*
+> *Authomate is my personal toolkit for building backend systems efficiently and consistently.*

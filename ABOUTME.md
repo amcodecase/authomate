@@ -32,6 +32,6 @@ I spend my time building practical systems, teaching, and creating tools that ma
 
 ---
 
-## About Athomate
+## About Authomate
 
-> **Athomate** is my personal playground: a toolkit I use to streamline my workflow and focus on building projects that matter.
+> **Authomate** is my personal playground: a toolkit I use to streamline my workflow and focus on building projects that matter.
