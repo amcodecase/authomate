@@ -1,23 +1,29 @@
 # Athomate
 
-Athomate is my personal system to stop me from rewriting the same backend work over and over. It exists to help me assemble things I always need so I can focus on building quickly.
+![Status](https://img.shields.io/badge/Status-Experimental-orange)
+![Type](https://img.shields.io/badge/Type-Personal_Toolkit-blue)
+![Backend](https://img.shields.io/badge/Backend-Laravel_API-red)
 
-> I should not have to rebuild the same features. I should assemble them.
+> **Athomate** is my personal system to stop me from rewriting the same backend work over and over. It exists to help me assemble things I always need so I can focus on building quickly.
+
+<p align="center">
+  <strong>"I should not have to rebuild the same features. I should assemble them."</strong>
+</p>
 
 ---
 
 ## Why I Made Athomate
 
-I kept repeating the same work in every project, which wastes time and energy. Athomate exists to capture those patterns so I don’t have to redo them.
+I kept repeating the same work in every project, which wastes time and energy. **Athomate** exists to capture those patterns so I don't have to redo them.
 
 ---
 
 ## Principles I Follow
 
-* Keep it simple
-* Only include what I need
-* Avoid overcomplicating
-* Focus on what I actually use
+![Simple](https://img.shields.io/badge/-Keep_it_simple-333?style=flat-square)
+![Minimal](https://img.shields.io/badge/-Only_what_I_need-333?style=flat-square)
+![Focused](https://img.shields.io/badge/-Avoid_overcomplicating-333?style=flat-square)
+![Practical](https://img.shields.io/badge/-Focus_on_what_I_use-333?style=flat-square)
 
 ---
 
@@ -25,21 +31,22 @@ I kept repeating the same work in every project, which wastes time and energy. A
 
 Athomate is purely personal. It helps me:
 
-* Move faster
-* Avoid repetitive work
-* Stay organized
-* Keep my projects consistent
+- **Move faster**
+- **Avoid repetitive work**
+- **Stay organized**
+- **Keep my projects consistent**
 
-It is my toolbox and set of instructions for myself.
+> It is my toolbox and set of instructions for myself.
 
 ---
 
 ## Status
 
-Athomate is experimental and personal. I can change it freely as I learn and work on new projects.
+![Development](https://img.shields.io/badge/Development-Active-brightgreen)
+![License](https://img.shields.io/badge/License-Personal_Use-lightgrey)
 
 ---
 
 ## Notes
 
-This is for my own reference and experimentation. No one else needs to use it.
+> This is for my own reference and experimentation. No one else needs to use it.
