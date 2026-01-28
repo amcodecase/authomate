@@ -141,4 +141,44 @@ graph TD
 
 ---
 
+## Development Environment
+
+> The environment I used to build Authomate:
+
+### Host System
+
+![Windows](https://img.shields.io/badge/Windows-Host_OS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-Linux_Subsystem-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Terminal & Shell
+
+![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Zellij](https://img.shields.io/badge/Zellij-Terminal_Multiplexer-FF6B6B?style=flat-square)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Databases & Caching
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Containers & Monitoring
+
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Netdata](https://img.shields.io/badge/Netdata-Monitoring-00AB44?style=flat-square&logo=netdata&logoColor=white)
+
+### API Testing
+
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+> **Postman** is essential for testing all Authomate APIs during development.
+
+### Browser
+
+![Brave](https://img.shields.io/badge/Brave-Browser-FB542B?style=flat-square&logo=brave&logoColor=white)
+
+---
+
 > *Authomate is my personal toolkit for building backend systems efficiently and consistently.*

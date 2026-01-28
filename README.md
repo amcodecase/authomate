@@ -48,6 +48,16 @@ Authomate is purely personal. It helps me:
 
 ---
 
+## Documentation
+
+| File | Description |
+|------|-------------|
+| ![README](https://img.shields.io/badge/-README.md-blue?style=flat-square) | Project introduction, principles, and overview |
+| ![OVERVIEW](https://img.shields.io/badge/-OVERVIEW.md-green?style=flat-square) | Technical details, package architecture, diagrams, and dev environment |
+| ![ABOUTME](https://img.shields.io/badge/-ABOUTME.md-purple?style=flat-square) | About the author, education, expertise, and contact |
+
+---
+
 ## Notes
 
 > This is for my own reference and experimentation. No one else needs to use it.
