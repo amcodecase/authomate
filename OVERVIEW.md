@@ -22,6 +22,22 @@ authomate/
 
 ---
 
+## Package Architecture
+
+```mermaid
+graph TD
+    A[Authomate] --> B[packages]
+    B --> C[api]
+    C --> D[v1]
+    
+    style A fill:#FF2D20,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#777BB4,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#4FC08D,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#3498db,stroke:#333,stroke-width:2px,color:#fff
+```
+
+---
+
 ## What Authomate Does
 
 | Feature | Description |
